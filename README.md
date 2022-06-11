@@ -5,6 +5,6 @@ Anticipated weekly threat network addresses
 
 - [ ] More detection and capture methods
 - [ ] Spam/Malmail Capture
-- [ ] Cyan IOC (?)
+- [ ] Owl IOC (?)
 - [ ] Suriata/Snort Ruler
 - [ ] More...
